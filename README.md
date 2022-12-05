@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Rimes</h1>
 <h3 align="center">What would happen if you mixed the DNA of P.T. Barnum, MacGyver, and Steve Wozniak? Answer: Me</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/KTBAqZJiqDPyg/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/KTBAqZJiqDPyg/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-rimes&label=Profile%20views&color=0e75b6&style=flat" alt="chris-rimes" /> </p>
 
