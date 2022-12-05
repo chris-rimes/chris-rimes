@@ -1,4 +1,3 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/1161px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg)](https://christopherrimes.com)
 <h1 align="center">Hi 👋, I'm Christopher Rimes</h1>
 <h3 align="center">What would happen if you mixed the DNA of P.T. Barnum, MacGyver, and Steve Wozniak? Answer: Me</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/KTBAqZJiqDPyg/giphy.gif">
