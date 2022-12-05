@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://christopherrimes.com/](https://christopherrimes.com/)
 
-- 📝 I regularly write articles on [Coding, Human Nature(Behavioral Psychology), Game Development, Marketing](Coding, Human Nature(Behavioral Psychology), Game Development, Marketing)
+- 📝 I regularly write articles on [Coding, Human Nature(Behavioral Psychology), Game Development, Marketing]
 
 - 💬 Ask me about **"How JavaScript is the duct tape of the internet", Why Unreal Engine is the only real option for game development", and "Why studying Human nature is the most important skill you can ever learn in your life".**
 
