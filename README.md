@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **contact@christopherrimes.com**
 
-- ⚡ Fun fact **When I play role-playing games, I like to play as my alter-ego, "Christopher The Conqueror, The Bastard of Black Water Bay".**
+- ⚡ Fun fact **I'm a Triva Master. I know some of the most obscure facts known to man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
