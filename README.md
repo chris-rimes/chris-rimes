@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **"How JavaScript is the duct tape of the internet", Why Unreal Engine is the only real option for game development", and "Why studying Human nature is the most important skill you can ever learn in your life".**
 
-- 📫 How to reach me **contact@christopherrimes.com**
+<!-- - 📫 How to reach me **contact@christopherrimes.com** -->
 
-- ⚡ Fun fact **I'm a Triva Master. I know some of the most obscure facts known to man**
+- ⚡ Fun fact **I'm a Trivia Master. I know some of the most obscure facts known to man**
 
 <!--
 <h3 align="left">Connect with me:</h3>
